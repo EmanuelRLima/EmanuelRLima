@@ -1,8 +1,8 @@
-<h1> Olá, seja bem vindo ao meu Git! </h1>
+<h1> Hello, welcome to my Git! </h1>
 
-<h4> Sou desenvolvedor front-end pleno e que desbrava o mundo do back-end quando possível, seria eu um fullstack? kk </h4>
-<h4> Aqui eu adiciono alguns projetos pessoais, fique a vontade para da uma olhada. </h4>
-<h4> Essas são as linguagens que utilizo e tenho uma proficiência </h4>
+<h4> I'm a fullstack developer! </h4>
+<h4> Here I add some personal projects, feel free to take a look. </h4>
+<h4> These are the languages I use and have a proficiency </h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
